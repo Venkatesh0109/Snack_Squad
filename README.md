@@ -1,4 +1,5 @@
 # Snack_Squad
+A Customizable Snack Ordering and Delivery App
 
 **TEAM ID - NM2023TMID12816**
 
