@@ -6,92 +6,92 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml
+8-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml
+9-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:5:5-45:19
+11-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:5:5-45:19
 12        android:allowBackup="true"
-12-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:6:9-35
+12-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.7.0] C:\Users\UDC\.gradle\caches\transforms-3\9e6c59fa836bf02be7604ca30953af03\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:7:9-65
+14-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:7:9-65
 15        android:debuggable="true"
 16        android:extractNativeLibs="false"
 17        android:fullBackupContent="@xml/backup_rules"
-17-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:8:9-54
+17-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:8:9-54
 18        android:icon="@drawable/fast_food"
-18-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:9:9-43
+18-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:9:9-43
 19        android:label="@string/app_name"
-19-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:10:9-41
+19-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:10:9-41
 20        android:supportsRtl="true"
-20-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:11:9-35
+20-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:11:9-35
 21        android:testOnly="true"
 22        android:theme="@style/Theme.SnackOrdering" >
-22-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:12:9-51
+22-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:12:9-51
 23        <activity
-23-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:14:9-18:58
+23-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:14:9-18:58
 24            android:name="com.example.snackordering.AdminActivity"
-24-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:15:13-42
+24-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:15:13-42
 25            android:exported="false"
-25-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:16:13-37
+25-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:16:13-37
 26            android:label="@string/title_activity_admin"
-26-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:17:13-57
+26-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:17:13-57
 27            android:theme="@style/Theme.SnackOrdering" />
-27-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:18:13-55
+27-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:18:13-55
 28        <activity
-28-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:19:9-29:20
+28-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:19:9-29:20
 29            android:name="com.example.snackordering.LoginActivity"
-29-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:20:13-42
+29-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:20:13-42
 30            android:exported="true"
-30-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:21:13-36
+30-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:21:13-36
 31            android:label="SnackSquad"
-31-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:22:13-39
+31-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:22:13-39
 32            android:theme="@style/Theme.SnackOrdering" >
-32-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:23:13-55
+32-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:23:13-55
 33            <intent-filter>
-33-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:24:13-28:29
+33-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:24:13-28:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:25:17-69
-34-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:25:25-66
+34-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:25:17-69
+34-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:25:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:27:17-77
-36-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:27:27-74
+36-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:27:17-77
+36-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:27:27-74
 37            </intent-filter>
 38        </activity>
 39        <activity
-39-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:30:9-34:58
+39-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:30:9-34:58
 40            android:name="com.example.snackordering.TargetActivity"
-40-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:31:13-43
+40-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:31:13-43
 41            android:exported="false"
-41-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:32:13-37
+41-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:32:13-37
 42            android:label="@string/title_activity_target"
-42-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:33:13-58
+42-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:33:13-58
 43            android:theme="@style/Theme.SnackOrdering" />
-43-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:34:13-55
+43-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:34:13-55
 44        <activity
-44-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:35:9-39:58
+44-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:35:9-39:58
 45            android:name="com.example.snackordering.MainPage"
-45-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:36:13-37
+45-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:36:13-37
 46            android:exported="false"
-46-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:37:13-37
+46-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:37:13-37
 47            android:label="@string/title_activity_main_page"
-47-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:38:13-61
+47-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:38:13-61
 48            android:theme="@style/Theme.SnackOrdering" />
-48-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:39:13-55
+48-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:39:13-55
 49        <activity
-49-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:40:9-44:58
+49-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:40:9-44:58
 50            android:name="com.example.snackordering.MainActivity"
-50-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:41:13-41
+50-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:41:13-41
 51            android:exported="false"
-51-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:42:13-37
+51-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:42:13-37
 52            android:label="MainActivity"
-52-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:43:13-41
+52-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:43:13-41
 53            android:theme="@style/Theme.SnackOrdering" />
-53-->C:\Users\UDC\AndroidStudioProjects\SnackOrdering-main\app\src\main\AndroidManifest.xml:44:13-55
+53-->F:\Snack_Squad-\app\src\main\AndroidManifest.xml:44:13-55
 54
 55        <service
 55-->[androidx.room:room-runtime:2.5.0] C:\Users\UDC\.gradle\caches\transforms-3\4309c97ebbd6c0fdc0cac9c97e41db19\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
