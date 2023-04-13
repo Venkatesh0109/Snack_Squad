@@ -1,2 +1,12 @@
 # Snack_Squad
-Video Demonstration - https://drive.google.com/file/d/10ISvOuZJNCNIk7hUzeZWYRkI95vw9lM0/view?usp=share_link
+
+**TEAM ID - NM2023TMID12816**
+
+## TEAM MEMBERS
+- Venkatesh E - Team Leader ( NM ID - 028E65C7E571DBBA9D149C754C2DCE4B )
+- ANUPRIYA A ( NM ID - EA8B75B73ED05E8A3EB4DD19F906C352 )
+- GOKULRAJ R ( NM ID - 884091991D406558BC7491D16516EACO )
+- DHIVAKAR K ( NM ID - C7A90BODD036F21856E419D90CD7CC19 )
+
+Video Demonstration Link -
+ https://drive.google.com/file/d/10ISvOuZJNCNIk7hUzeZWYRkI95vw9lM0/view?usp=share_link
